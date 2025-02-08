@@ -1,1 +1,7 @@
+flask 
 streamlit
+google-generativeai 
+langdetect 
+textblob 
+fpdf 
+concurrent
